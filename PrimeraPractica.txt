@@ -1,3 +1,10 @@
+<project>
+
+	<modelVersion>4.00</modelVersion>
+	<groupId>com.mycompany.app</groupId>
+	<artifacId>my.app</artifactId>
+	<version>1.0</version>
+
 <depedencies>
 
 	<dependency>
@@ -14,3 +21,5 @@
 
 
 </dependencies>
+
+</project>
